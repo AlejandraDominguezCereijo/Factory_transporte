@@ -1,4 +1,10 @@
 public class Main {
+    /**
+     *Proyecto Factory para trabajar con el patron factory
+     *
+     * @author Alejandra Dominguez
+     * @version 0.1
+     */
     static Transposte mostrar;
     public static void main(String[] args) {
         mostrar=FactoriaDeSalidas.getProducto(FactoriaDeSalidas.BICICLETA);

@@ -3,6 +3,7 @@ public class Bicicleta implements Transposte {
     public static final int envoltorio_carton = 10;
     public static final int caja_madera = 15;
 
+
     @Override
     public Float costeTotal(Integer cp) {
         if (cp < 30000) {

@@ -9,5 +9,9 @@ public class Main {
         mostrar.costeTotal(26004);
         mostrar.tipoEmbalaje(5F,5F,5F,10F);
 
+        mostrar=FactoriaDeSalidas.getProducto(FactoriaDeSalidas.BARCO);
+        mostrar.costeTotal(25003);
+        mostrar.tipoEmbalaje(3F,5F,4F,8F);
+
     }
 }

@@ -1,0 +1,2 @@
+En este proyecto trabajamos con el patron factory, con el cual podemos desde una sola clase 
+gestionar diferentes opciones con las demas clases, en este caso con los transportes, camion, barco y bicicleta.
